@@ -7,6 +7,8 @@ This repository makes available the public dataset for the hand which has 6720 i
 - Left
 - Right
 
+![alt text](https://github.com/YaldaForootan/HandDataset-6720Images-/blob/master/trainingset%20samples.jpg "Logo Title Text 1")
+
 
 ## Download dataset.
 Following links let you download training and validation set.
