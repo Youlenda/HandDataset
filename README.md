@@ -27,5 +27,5 @@ Each sample in training set is a 100 × 100 x 3 image associated with a label fr
 
 
 ## Train your model.
-In my case the dataset was classified with [EfficientNet-B0](https://arxiv.org/abs/1905.11946) and some fully connected layers in order to control pointer of mouse with hand detection and classification. After downloading dataset, you can use [load dataset.py](https://github.com/Youlenda/6720HandImages/blob/master/load%20dataset.py) to unzip 6720 hand images and make your training data and its labels. 
+In my case, the dataset was classified with [EfficientNet-B0](https://arxiv.org/abs/1905.11946) and some fully connected layers in order to control pointer of mouse with hand detection and classification. After downloading dataset, you can use [load dataset.py](https://github.com/Youlenda/6720HandImages/blob/master/load%20dataset.py) to unzip 6720 hand images and make your training data and its labels. 
 
