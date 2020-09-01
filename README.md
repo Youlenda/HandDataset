@@ -21,9 +21,9 @@ Following links let you download training and validation set.
 [Validation Set (9 MB)](https://drive.google.com/file/d/1sghCxu83xV_DIZ1qWA4eLg_-hAQh-Pxs/view?usp=sharing)
 
 
-**Please notice that training set and validation set have different dixtributions.**
+**Please notice that training set and validation set have different distribution.**
 
-Each sample in training set is a 100×100x3 image associated with a label from 4 classes. Validation data were captured by [SSD Hand Detection](https://github.com/victordibia/handtracking); So sample in validation set have different size but 3 dimensions.
+Each sample in training set is a 100 × 100 x 3 image associated with a label from 4 classes. Validation data were captured by [SSD Hand Detection](https://github.com/victordibia/handtracking); So sample in validation set have different size but 3 dimensions.
 
 
 ## Train your model.
