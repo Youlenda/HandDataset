@@ -34,18 +34,20 @@ In my case the dataset was classified with [EfficientNet-B0](https://arxiv.org/a
 #Please change your training set path.
 training_path = '/content/train'
 
+x_train = []
+y_train = []
+count = 0
+datacount = 0
 lookup = dict()
 reverselookup = dict()
-count = 0
+
+
 for j in os.listdir(training_path):
     if not j.startswith('.'):
         lookup[j] = count
         reverselookup[count] = j
         count = count + 1
 
-x_train = []
-y_train = []
-datacount = 0
 for i in range(0, 4):
     for j in os.listdir(training_path + '/' + str(i) + '/'):
         if not j.startswith('.'):
