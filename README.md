@@ -1,1 +1,1 @@
-# Hand-Dataset-6720-
+# Hand Dataset (6720 Images)
