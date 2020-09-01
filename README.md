@@ -7,6 +7,8 @@ This repository makes available the public dataset for the hand which has 6720 i
 - Left
 - Right
 
+There are training set sample for each class in below:
+
 <p align="center">
   <img width="400" height="400" src="https://github.com/YaldaForootan/HandDataset-6720Images-/blob/master/trainingset%20samples.jpg">
 </p>
