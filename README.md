@@ -7,7 +7,7 @@ This repository makes available the public dataset for the hand which has 6720 i
 - Left
 - Right
 
-![](https://github.com/YaldaForootan/HandDataset-6720Images-/blob/master/trainingset%20samples.jpg=250x250))
+![](https://github.com/YaldaForootan/HandDataset-6720Images-/blob/master/trainingset%20samples.jpg) <!-- .element height="50%" width="50%" -->
 
 
 ## Download dataset.
