@@ -14,4 +14,4 @@ Each sample in training set is a 100×100x3 image associated with a label from 4
 
 
 
-In my case the dataset was classified with EfficientNet-B0 and some fully connected layers in order to control pointer of mouse with hand detection and classification. 
+In my case the dataset was classified with [EfficientNet-B0](https://arxiv.org/abs/1905.11946) and some fully connected layers in order to control pointer of mouse with hand detection and classification. 
