@@ -16,9 +16,9 @@ Some of training samples for each class:
 ## Download dataset.
 Following links let you download training and validation set.
 
-[Training Set (79 MB)](https://drive.google.com/file/d/1eo7kkq8zzrlWgcCcQh1Stkei_eZhIAbl/view?usp=sharing)
+[Training Set (79 MB)]()
 
-[Validation Set (9 MB)](https://drive.google.com/file/d/1sghCxu83xV_DIZ1qWA4eLg_-hAQh-Pxs/view?usp=sharing)
+[Validation Set (9 MB)]()
 
 
 **Please notice that training set and validation set have different distribution.**
