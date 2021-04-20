@@ -26,6 +26,6 @@ Following links let you download training and validation set.
 Each sample in training set is a 100 × 100 x 3 image associated with a label from 4 classes. Validation data were captured by [SSD Hand Detection](https://github.com/victordibia/handtracking); Therefore, sample in validation set have different size but 3 dimensions.
 
 
-## Train your model.
+## Train your model
 In my case, the dataset was classified with [EfficientNet-B0](https://arxiv.org/abs/1905.11946) and some fully connected layers in order to control pointer of mouse with hand detection and classification. After downloading dataset, you can use [load dataset.py](https://github.com/Youlenda/6720HandImages/blob/master/load%20dataset.py) to unzip 6720 hand images and make your training data and its labels. 
 
