@@ -13,7 +13,7 @@ Some of training samples for each class:
   <img width="400" height="400" src="https://github.com/YaldaForootan/HandDataset-6720Images-/blob/master/trainingset%20samples.jpg">
 </p>
 
-## Download dataset.
+## Download Dataset
 Following links let you download training and validation set.
 
 [Training Set (79 MB)]()
