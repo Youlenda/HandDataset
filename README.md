@@ -1,4 +1,4 @@
-# Hand Dataset (6720 Images)
+# Hand Dataset (6720 Image Samples)
 
 
 This repository makes available the public dataset for the hand which has 6720 images. These images were captured by fifteen persons, nine women and six men, in eighteen different spaces with simple backgrounds. Other variation of data such as light condition, differnt capturing devise (mobile and laptop) and also diffrent resoulation were considered. The presented dataset consists of 4 classes which are:
